@@ -1,0 +1,79 @@
+
+body {
+   background-color:#9CF;
+background-image: url("imagen/programacion.jpg");
+width="500" height="600" 
+ background-repeat: no-repeat;
+
+}
+
+#cabeceraweb{
+   background-color:#2E35A4;
+Text-align:center;
+}
+
+#navegacionprincipal{
+   background-color:#1CBEC9;
+    font-family: verdana;
+    font-size: 120%;
+
+}
+
+#barralateral{
+   background-color:#1CBEC9;
+   float:left; /* que se coloque a la izquierda y lo rodee*/
+   height:200px; /* barra lateral tamaño*/
+
+}
+
+#contenidoprincipal{
+   background-color:#3F7298;
+   margin-left:240px; /*  separacion del borde */
+   padding-left:20px; /*separacion de la letra*/
+   padding-top:0px;
+
+}
+
+#pieprincipal{
+   background-color:#3F7298;
+   clear:both; /* rompe el float , lo trata como normal */
+   margin-top:35px;
+
+}
+
+li{
+   background-color:#28CF98;
+   display:inline; /* se colocan uno seguido del otro*/
+
+}
+
+
+
+
+h2{
+	text-align:center; color:#F00;
+	
+	}
+
+
+
+
+
+a:link {
+    color: red;
+}
+
+/* Link despues de ser visitado*/
+a:visited {
+    color:#000;
+}
+
+/* mouse sobre el link */
+a:hover {
+    color: hotpink;
+}
+
+/* link que a sido clikeado */
+a:active {
+    color: blue;
+}

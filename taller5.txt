@@ -1,0 +1,87 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+
+
+   <meta charset="iso-8559-1"/>
+   <meta name="description" content="Página de enseñanza html 5"/>
+   <meta name="keywords" content="html5, css3, Javascript, diseño web"/>
+
+   <title>Página de programación en HTML5</title>
+
+   <link rel="stylesheet" href="mihojadeestilos.css"/>
+
+
+
+
+</head>
+
+
+<body>
+
+
+    <header id="cabeceraweb">
+       <h1>Pagina de Sistemas</h1>
+       <h2>Por: Alumno tal</h2>
+
+    </header>
+
+
+
+
+   <nav id="navegacionprincipal">
+      <ul>
+         <li>Quiénes somos</li>
+         <li>Nuestros productos</li>
+         <li>Contáctanos</li>
+         <li>Precios</li>
+      </ul>
+
+    </nav>
+
+
+
+ <aside ID="barralateral">
+        <blockquote>Primer elemento</blockquote>
+        <blockquote>Segundo elemento</blockquote>
+        <blockquote>Tercer elemento</blockquote>
+
+   </aside
+
+
+   <section id="conp">
+    
+      <article>
+
+        <header>
+
+         <hgroup>
+          <h2>neurocirugía</h2>
+          <h3> se encarga de determinadas enfermedades del sistema nervioso central, periférico y vegetativo</h3>
+         </hgroup>
+
+        </header>
+        
+       
+      </article>
+
+      
+
+   </section>
+
+
+
+
+ <footer id="pieprincipal">
+      <small>Derechos reservados</small> <address>Tfno:952569874</address>
+   </footer>
+
+
+
+
+
+
+
+</body>
+</html>
